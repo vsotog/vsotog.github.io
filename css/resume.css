@@ -1,0 +1,19 @@
+
+
+html body{
+
+	background-color: #fefefe;
+}
+
+.column{
+	float: left;
+	padding: 100px;
+}
+
+.left{
+	width:25%;
+}
+
+.right{
+	width: 75%;
+}
