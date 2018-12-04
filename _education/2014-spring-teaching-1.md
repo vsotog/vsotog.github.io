@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Electrical and Telecomunications Engineering"
+collection: education
+type: "BASc"
+permalink: /education/2014-spring-teaching-1
+venue: "University of Guadalajara, Electronics Department"
+date: 2013-07-31
+location: "Guadalajara, Mexico"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
