@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Soto"
-  avatar           : "profilePic.png"
+  avatar           : "profilePic.jpg"
   bio              : "Electrical and Computer Engineer"
   location         : "Ottawa,ON"
   employer         :
@@ -171,26 +171,28 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
+  skills:
+    output: true
+    permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
+  experience:
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+  personal:
+    output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
-  # _posts
+  # _skills
   - scope:
       path: ""
-      type: posts
+      type: skills
     values:
       layout: single
       author_profile: true
@@ -198,17 +200,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _education
   - scope:
       path: ""
-      type: pages
+      type: education
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _experience
   - scope:
       path: ""
-      type: teaching
+      type: experience
     values:
       layout: single
       author_profile: true
@@ -223,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _personal
   - scope:
       path: ""
-      type: portfolio
+      type: personal
     values:
       layout: single
       author_profile: true
