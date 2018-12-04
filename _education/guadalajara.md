@@ -1,8 +1,8 @@
 ---
-title: "Electrical and Telecomunications Engineering"
+title: "BASc Electrical and Telecomunications Engineering"
 collection: education
 type: "BASc"
-permalink: /education/2014-spring-teaching-1
+permalink: /education/guadalajara
 venue: "University of Guadalajara, Electronics Department"
 date: 2013-07-31
 location: "Guadalajara, Mexico"

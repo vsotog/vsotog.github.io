@@ -1,8 +1,8 @@
 ---
-title: "Electrical and Computer Engineer"
+title: "MASc Electrical and Computer Engineer"
 collection: education
 type: "MASc"
-permalink: /education/2015-spring-teaching-1
+permalink: /education/ottawa
 venue: "University of Ottawa,  School of Electrical and Computer Science."
 date: 2018-09-30
 location: "Ottawa, Canada"
