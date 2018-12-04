@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Victor Soto"
-  avatar           : "profilePic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profilePic.png"
+  bio              : "Electrical and Computer Engineer"
   location         : "Ottawa,ON"
   employer         :
   googlescholar    : 
@@ -172,16 +172,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
