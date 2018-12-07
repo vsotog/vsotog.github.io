@@ -15,26 +15,26 @@ redirect_from:
 **Operating Systems** 
 :   Windows, Linux 
 
-IDE
+**IDE** 
 :   Eclipse, PyCharm, Visual Studio
 
-Version Control Tools
+**Version Control Tools**
 :   Git
 
-Network Protocols
+**Network Protocols**
 :   TCP/IP, UDP, HTTPS, MPLS, VoIP, SIP, DSRC, WSM
 
-Data Science Libraries
+**Data Science Libraries**
 :   NumPy, SciPy
 
-Network Management
+**Network Management**
 :   Wireshark
 
-Web/Front End Libraries
+**Web/Front End Libraries**
 :   HTML, CSS, JavaScript, jQuery, Bootstrap, React, Redux
 
-Virtualization Technologies
+**Virtualization Technologies**
 :   Oracle Virtual Box, VMware
 
-Lab Skills
+**Lab Skills**
 :   Digital/Analog Scopes, Spectrum Analyzer, Function Generators
