@@ -183,7 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  skills:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
