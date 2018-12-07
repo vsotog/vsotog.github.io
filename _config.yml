@@ -177,10 +177,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experience:
     output: true
     permalink: /:collection/:path/
-  talks:
+  personal:
     output: true
     permalink: /:collection/:path/
   skills:
