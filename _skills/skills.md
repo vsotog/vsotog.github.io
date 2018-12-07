@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 **Programming Languages** 
-: Python, C/C++, Java, Bash (Command)  
+: Python, C/C++, Java, Bash (Command) 
 
 **Operating Systems** 
-:   Windows, Linux  
+:   Windows, Linux 
 
 IDE
 :   Eclipse, PyCharm, Visual Studio
