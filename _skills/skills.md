@@ -9,44 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-TEST
+Programming Languages
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Python, C/C++, Java, Bash (Command)
 
-Work experience
+Operating Systems
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Windows, Linux
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+IDE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Eclipse, PyCharm, Visual Studio
 
-Publications
+Version Control Tools
 ======
+Git
 
-  
-Talks
+Network Protocols
 ======
+TCP/IP, UDP, HTTPS, MPLS, VoIP, SIP, DSRC, WSM
 
-Teaching
+Data Science Libraries
 ======
+NumPy, SciPy
 
-  
-Service and leadership
+Network Management
 ======
-* Currently signed in to 43 different slack teams
+Wireshark
+
+Web/Front End Libraries
+======
+HTML, CSS, JavaScript, jQuery, Bootstrap, React, Redux
+
+Virtualization Technologies
+======
+Oracle Virtual Box, VMware
+
+Lab Skills
+======
+Digital/Analog Scopes, Spectrum Analyzer, Function Generators
