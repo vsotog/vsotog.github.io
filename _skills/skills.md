@@ -10,41 +10,31 @@ redirect_from:
 {% include base_path %}
 
 ### Programming Languages
-
 Python, C/C++, Java, Bash (Command)
 
 ### Operating Systems
-
 Windows, Linux
 
 ### IDE
-
 Eclipse, PyCharm, Visual Studio
 
 ### Version Control Tools
-
 Git
 
 ### Network Protocols
-
 TCP/IP, UDP, HTTPS, MPLS, VoIP, SIP, DSRC, WSM
 
 ### Data Science Libraries
-
 NumPy, SciPy
 
 ### Network Management
-
 Wireshark
 
 ### Web/Front End Libraries
-
 HTML, CSS, JavaScript, jQuery, Bootstrap, React, Redux
 
 ### Virtualization Technologies
-
 Oracle Virtual Box, VMware
 
 ### Lab Skills
-
 Digital/Analog Scopes, Spectrum Analyzer, Function Generators

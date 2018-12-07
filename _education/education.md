@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-###B.S. in Electronics and Telecommunications Engineering, University of Guadalajara, 2013
+### B.S. in Electronics and Telecommunications Engineering, University of Guadalajara, 2013
 
 * Thesis: "Mobility Oriented Data Retrieval for Computation Offloading in Vehicular Edge Computing"
 * Relevant Courses:
@@ -17,7 +17,7 @@ redirect_from:
   * High-frequency Electronics
   * Audio & Video Systems
 
-###MASc in Electrical and Computer Engineering, University of Ottawa, 2018
+### MASc in Electrical and Computer Engineering, University of Ottawa, 2018
 
 * Thesis: "Design and Implementation of a 2.45GHz Wearable Antenna"
 * Relevant Courses:
