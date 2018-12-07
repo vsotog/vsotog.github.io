@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Programming Languages
-:   Python, C/C++, Java, Bash (Command)
+**Programming Languages** 
+: Python, C/C++, Java, Bash (Command)
 
 Operating Systems
 :   Windows, Linux
