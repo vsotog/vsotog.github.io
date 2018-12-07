@@ -12,7 +12,7 @@ redirect_from:
 
 * Thesis: "Mobility Oriented Data Retrieval for Computation Offloading in Vehicular Edge Computing"
 * Relevant Courses:
-  * Computer Networks
+:     * Computer Networks
   * Protocols & Standards
   * High-frequency Electronics
   * Audio & Video Systems
@@ -21,7 +21,7 @@ redirect_from:
 
 * Thesis: "Design and Implementation of a 2.45GHz Wearable Antenna"
 * Relevant Courses:
-  * Distributed Systems Engineering
+:     * Distributed Systems Engineering
   * Intelligent Transportation Systems
   * Discrete-event Modeling & Simulation
   * Resource Management on Distributed Systems
