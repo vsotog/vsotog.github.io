@@ -12,6 +12,18 @@ redirect_from:
 
 I am an Electrical and Computer Engineer, always eager to learn. Looking for opportunities to develop my career.<br>
 
+<h3> Highlights</h3>
+<ul>
+	<li> MA Sc. in Electrical and Computer Engineering from University of Ottawa</li>
+	<li> 2+ years as part of the Create Transit Network/NSERC program</li>
+	<li> Strong knowledge of Linux based systems, Python and C/C++.</li>
+	<li> In-depth knowledge of Communication Protocols for Vehicular Edge Computing systems and Vehicular Networks</li>
+	<li> Working experience with Data Science libraries for data analysis and visualization libraries in Python – NumPy, SciPy, and Matplotlib</li>
+	<li> Working knowledge of OOD/OOP, Data Structures, Algorithms and Computer Networks</li>
+	<li> Excellent problem-solving, troubleshooting, and debugging skills</li>
+	<li> Outstanding writing skills, adaptable to changing priorities, and a team player</li>
+</ul>
+
 
 This website is a personal project, and I will keep adding more things with time.
 
