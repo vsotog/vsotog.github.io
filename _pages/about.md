@@ -14,7 +14,7 @@ I am an Electrical and Computer Engineer, always eager to learn. Looking for opp
 
 <h3> Highlights</h3>
 <ul>
-	<li> MA Sc. in Electrical and Computer Engineering from University of Ottawa</li>
+	<li> MASc. in Electrical and Computer Engineering from University of Ottawa</li>
 	<li> 2+ years as part of the Create Transit Network/NSERC program</li>
 	<li> Strong knowledge of Linux based systems, Python and C/C++.</li>
 	<li> In-depth knowledge of Communication Protocols for Vehicular Edge Computing systems and Vehicular Networks</li>
