@@ -26,7 +26,7 @@ I am an Electrical and Computer Engineer, always eager to learn. Looking for opp
 
 
 
-<a href="https://github.com/vsotog/vsotog.github.io/raw/master/files/VictorSotoResume.pdf">Download a copy of my resume <u>here</u></a>
+<a href="https://github.com/vsotog/vsotog.github.io/raw/master/files/VictorSotoResume.pdf">Download a copy of my resume here</a>
 
 
 
