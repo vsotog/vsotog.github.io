@@ -15,8 +15,9 @@ I am an Electrical and Computer Engineer, always eager to learn. Looking for opp
 <h3> Highlights</h3>
 <ul>
 	<li> MASc. in Electrical and Computer Engineering from University of Ottawa</li>
+	<li> Software Engineer with experience in Cloud Infrastructure.</li>  	
 	<li> 2+ years as part of the Create Transit Network/NSERC program</li>
-	<li> Strong knowledge of Linux based systems, Python and C/C++.</li>
+	<li> Strong knowledge of Linux based systems, Java, Python and C/C++.</li>
 	<li> In-depth knowledge of Communication Protocols for Vehicular Edge Computing systems and Vehicular Networks</li>
 	<li> Working experience with Data Science libraries for data analysis and visualization libraries in Python – NumPy, SciPy, and Matplotlib</li>
 	<li> Working knowledge of OOD/OOP, Data Structures, Algorithms and Computer Networks</li>
@@ -30,7 +31,7 @@ I am an Electrical and Computer Engineer, always eager to learn. Looking for opp
 
 
 
-This website is a personal project, and I will keep adding more things with time.
+This website is a personal project, and I will try to keep adding more things with time.
 
 
 
