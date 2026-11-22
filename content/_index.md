@@ -6,9 +6,8 @@ template = "index.html"
 [extra]
 role = "Senior Platform Engineer"
 specialty = "Cloud Infrastructure & Reliability"
-email = "vsoto26@gmail.com"
 linkedin = "https://linkedin.com/in/vsoto26"
-summary = "I automate, secure, and operate cloud infrastructure for production real-time media services. My work spans Kubernetes, Terraform, and CI/CD across Azure, GCP, and AWS, including regulated FedRAMP and CCCS environments. I build observability and internal tooling that help teams ship and troubleshoot faster, with a background in Rust, distributed systems, and electrical and computer engineering."
+summary = "I automate, secure, and operate cloud infrastructure for production real-time media services. My work spans Kubernetes, Terraform, and CI/CD across Azure, GCP, and AWS, including regulated FedRAMP and CCCS environments. I build observability and internal tooling that help teams ship and troubleshoot faster, with a background in Rust and distributed systems.
 +++
 
 ## Experience
@@ -28,8 +27,8 @@ summary = "I automate, secure, and operate cloud infrastructure for production r
 
 #### Observability & Incident Response
 
-- Designed and built an internal observability and incident-triage platform with FastAPI and React/TypeScript for live log streaming, correlation, and cross-environment Kubernetes and cloud log queries.
-- Added LLM-assisted investigation with Vertex AI, Gemini, and Claude; MCP integrations; Jira and GitHub workflows; and SAML/Okta single sign-on.
+- Designed and built an internal observability and incident-triage platform for live log streaming, correlation, and cross-environment Kubernetes and cloud log queries.
+- Added LLM-assisted investigation with Gemini and Claude; MCP integrations; Jira and GitHub workflows; and SAML/Okta single sign-on.
 - Enabled distributed tracing, OpenTelemetry, and APM instrumentation across services, with consistent resource attributes for clearer logs and traces.
 - Added readiness and liveness checks, automated cleanup of orphaned resources using Kubernetes owner references, and runbooks for deployment, blue/green releases, disaster recovery, alerting, and failure playbooks.
 
@@ -49,8 +48,8 @@ summary = "I automate, secure, and operate cloud infrastructure for production r
 - **Cloud & Platform:** Azure, GCP, AWS, Kubernetes, Helm, Argo CD, Terraform, Bicep, Packer, CI/CD
 - **Observability:** OpenTelemetry, distributed tracing, Cloud Logging, log correlation
 - **Security:** mTLS, JWT/OAuth, SAML/Okta, FIPS, Dependency-Track, SonarQube, secrets management
-- **Languages:** Rust, Python, Java, TypeScript, Bash
-- **Systems:** FastAPI, React, Kafka, GStreamer, WebRTC, MCP, Vertex AI
+- **Languages:** Rust, Python, Java, Bash
+- **Systems:** Kafka, GStreamer, WebRTC, MCP
 
 ## Research & Teaching
 

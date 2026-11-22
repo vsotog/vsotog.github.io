@@ -37,10 +37,8 @@
         <p class="hero-summary">{{ section.extra.summary }}</p>
         <div class="hero-actions">
           <a class="button button-primary" href="{{ get_url(path="resume.pdf") }}">Download resume <span aria-hidden="true">↓</span></a>
-          <a class="button button-quiet" href="mailto:{{ section.extra.email }}">Get in touch <span aria-hidden="true">↗</span></a>
         </div>
         <div class="hero-links">
-          <a href="mailto:{{ section.extra.email }}">{{ section.extra.email }}</a>
           <a href="{{ section.extra.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
         </div>
       </div>
@@ -70,7 +68,7 @@
   <footer class="site-footer">
     <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">VS</span><span>Victor Soto</span></a>
     <p>Platform engineering · Cloud infrastructure · Reliability</p>
-    <a href="mailto:{{ section.extra.email }}">{{ section.extra.email }}</a>
+    <a href="{{ section.extra.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
   </footer>
 </body>
 </html>
