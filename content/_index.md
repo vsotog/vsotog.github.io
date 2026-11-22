@@ -39,11 +39,11 @@ summary = "I build and operate production real-time media and cloud systems, com
 
 ## Technical Skills
 
-- **Languages:** Rust, Java, Python, TypeScript, Bash
+- **Languages:** Rust, Java, Python, Bash
 - **Media & Networking:** GStreamer, WebRTC, SDP/ICE, RTP, RTSP, HLS, STUN/TURN
 - **Cloud & Platform:** Azure, GCP, AWS, Kubernetes, Helm, Terraform, Bicep, Packer, CI/CD
-- **Security:** mTLS, JWT/OAuth, SAML/Okta, FIPS, Dependency-Track, SonarQube
-- **Systems:** FastAPI, React, Tokio, Spring Boot, Kafka, OpenTelemetry, MCP, Vertex AI
+- **Security:** JWT/OAuth, mTLS, SAML/Okta, FIPS, Dependency-Track, SonarQube
+- **Systems:** Tokio, Spring Boot, Kafka, OpenTelemetry, MCP
 
 ## Research & Teaching
 
