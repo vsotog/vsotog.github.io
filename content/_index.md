@@ -7,7 +7,7 @@ template = "index.html"
 role = "Senior Platform Engineer"
 specialty = "Cloud Infrastructure & Reliability"
 linkedin = "https://linkedin.com/in/vsoto26"
-summary = "I automate, secure, and operate cloud infrastructure for production real-time media services. My work spans Kubernetes, Terraform, and CI/CD across Azure, GCP, and AWS, including regulated FedRAMP and CCCS environments. I build observability and internal tooling that help teams ship and troubleshoot faster, with a background in Rust and distributed systems.
+summary = "I automate, secure, and operate cloud infrastructure for production real-time media services. My work spans Kubernetes, Terraform, and CI/CD across Azure, GCP, and AWS, including regulated FedRAMP and CCCS environments. I build observability and internal tooling that help teams ship and troubleshoot faster, with a background in Rust and distributed systems."
 +++
 
 ## Experience
