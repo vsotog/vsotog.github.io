@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ section.description }}">
+  <meta name="theme-color" content="#111c2c">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="{{ section.title }} · {{ section.extra.role }}">
+  <meta property="og:description" content="{{ section.description }}">
+  <meta property="og:url" content="{{ current_url }}">
+  <title>{{ section.title }} · {{ section.extra.role }}</title>
+  <link rel="stylesheet" href="{{ get_url(path="site.css") }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Victor Soto, home">
+      <span class="brand-mark" aria-hidden="true">VS</span>
+      <span>Victor Soto</span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#experience">Experience</a>
+      <a href="#technical-skills">Skills</a>
+      <a href="#research-teaching">Research</a>
+      <a href="#selected-publications">Publications</a>
+    </nav>
+    <a class="header-resume" href="{{ get_url(path="resume.pdf") }}">Resume <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Platform engineering · Production systems</p>
+        <h1 id="hero-title">{{ section.title }}</h1>
+        <p class="hero-role">{{ section.extra.role }} <span>—</span> {{ section.extra.specialty }}</p>
+        <p class="hero-summary">{{ section.extra.summary }}</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="{{ get_url(path="resume.pdf") }}">Download resume <span aria-hidden="true">↓</span></a>
+          <a class="button button-quiet" href="mailto:{{ section.extra.email }}">Get in touch <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="hero-links">
+          <a href="mailto:{{ section.extra.email }}">{{ section.extra.email }}</a>
+          <a href="{{ section.extra.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <aside class="hero-card" aria-label="Professional focus">
+        <div class="card-topline"><span>FIELD NOTES</span><span>01 / 04</span></div>
+        <p class="card-kicker">Building for</p>
+        <p class="card-focus">Resilient<br>systems<span class="accent-period">.</span></p>
+        <div class="card-divider"></div>
+        <div class="card-stats">
+          <div><strong>7+</strong><span>years in software</span></div>
+          <div><strong>3</strong><span>major cloud platforms</span></div>
+        </div>
+        <p class="card-stack">Kubernetes <i></i> Rust <i></i> Observability</p>
+        <span class="card-orbit orbit-one" aria-hidden="true"></span>
+        <span class="card-orbit orbit-two" aria-hidden="true"></span>
+      </aside>
+    </section>
+
+    <div class="content-shell">
+      <div class="section-label"><span>PROFILE</span><span>01 — 05</span></div>
+      <article class="resume-content">
+        {{ section.content | safe }}
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">VS</span><span>Victor Soto</span></a>
+    <p>Platform engineering · Cloud infrastructure · Reliability</p>
+    <a href="mailto:{{ section.extra.email }}">{{ section.extra.email }}</a>
+  </footer>
+</body>
+</html>

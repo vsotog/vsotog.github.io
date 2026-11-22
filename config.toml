@@ -1,0 +1,11 @@
+base_url = "https://vsotog.github.io"
+title = "Victor Soto"
+description = "Senior Platform Engineer focused on cloud infrastructure, reliability, and real-time media systems."
+default_language = "en"
+compile_sass = false
+build_search_index = false
+generate_feeds = false
+minify_html = true
+
+[markdown]
+render_emoji = false
